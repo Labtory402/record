@@ -2,6 +2,6 @@
 import Blog from '../index.vue';
 
 export default {
-  extends: Blog,
+  extends: BloKg,
 };
 </script>
